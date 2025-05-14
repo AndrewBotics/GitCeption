@@ -1,4 +1,3 @@
-
 const fileInput = document.getElementById('fileInput');
   const iframe = document.getElementById('preview');
 
